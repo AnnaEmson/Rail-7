@@ -21,4 +21,9 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+# We will be using 
+* Ruby 3.2.1
+* Rails 7.0.4.2
+* Rails CLI
+* Node.js v 19.7.0
+* NPM v 9.5.1
